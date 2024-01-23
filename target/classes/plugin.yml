@@ -1,0 +1,7 @@
+name: ItemsAPI
+version: '1.0-SNAPSHOT'
+main: qub.itemsapi.ItemsAPI
+api-version: '1.16'
+commands:
+  customitems:
+

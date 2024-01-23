@@ -1,0 +1,33 @@
+menus:
+  menu1:
+    items:
+      0:
+        material: DIAMOND_SWORD
+    command_en: "help"
+    command_ru: "help"
+    menu_title_en: "&aEnglish Menu"
+    menu_title_ru: "&cРусское Меню"
+    lore_en:
+      - "&7This is an English menu."
+      - "&7Click to open."
+    lore_ru:
+      - "&7Это русское меню."
+      - "&7Нажмите, чтобы открыть."
+  menu2:
+    items:
+      0:
+        material: IRON_SWORD
+    command_en: "help"
+    command_ru: "help"
+    menu_title_en: "&aSecond English Menu"
+    menu_title_ru: "&cВторое Русское Меню"
+    lore_en:
+      - "&7This is another English menu."
+      - "&7Click to open."
+    lore_ru:
+      - "&7Это еще одно русское меню."
+      - "&7Нажмите, чтобы открыть."
+
+player_localizations:
+  "UUID1": "en"
+  "UUID2": "ru"
